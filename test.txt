@@ -1,2 +1,0 @@
-newWay = {money;}
-learn learn learn
